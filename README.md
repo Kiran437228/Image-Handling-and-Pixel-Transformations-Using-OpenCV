@@ -136,46 +136,60 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ## Output:
 
 ## original image
-- <img width="650" height="373" alt="image" src="https://github.com/user-attachments/assets/00b600c7-e17f-4326-ae63-92540e131151" />
+<img width="636" height="382" alt="image" src="https://github.com/user-attachments/assets/064d6439-93f7-4756-8e65-fe2dc2fecbb0" />
+
 
 ## Image with Line
-<img width="605" height="366" alt="image" src="https://github.com/user-attachments/assets/d11ed377-a61b-4f9a-b029-d2eae60a829f" />
+<img width="620" height="382" alt="image" src="https://github.com/user-attachments/assets/ed69f6a9-9d7e-4af0-bfb2-5a2633f158bc" />
 
 ## Image with Circle
-<img width="772" height="363" alt="image" src="https://github.com/user-attachments/assets/5febc3a7-9412-4525-86dd-4fa6ad8feb35" />
+<img width="620" height="386" alt="image" src="https://github.com/user-attachments/assets/7b88fa49-8d42-4487-a989-bba58e657568" />
+
 
 ## Image with Rectangle
-<img width="610" height="363" alt="image" src="https://github.com/user-attachments/assets/215f92a4-e492-49e3-aa93-08f0dbfa65d6" />
+<img width="627" height="383" alt="image" src="https://github.com/user-attachments/assets/e5ecf087-1a88-432e-b10c-c529b4380696" />
+
 
 ## Image with Text
-<img width="585" height="368" alt="image" src="https://github.com/user-attachments/assets/d11437ab-182c-4f67-9564-76b7ba91d569" />
+<img width="625" height="383" alt="image" src="https://github.com/user-attachments/assets/edb11ee9-2407-49d3-af68-ee24c5d7fc05" />
+
 
 ## Original RGB Image
-<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/0c7a15cf-f2a2-4b1f-a9a4-e3c4ea18eab1" />
+<img width="625" height="386" alt="image" src="https://github.com/user-attachments/assets/bd9eaf3d-177d-49a1-9daa-2ed4914e59cc" />
+
 
 ## HSV Image
-<img width="620" height="353" alt="image" src="https://github.com/user-attachments/assets/d046e489-32f4-480f-a672-26cd14a34033" />
+<img width="622" height="375" alt="image" src="https://github.com/user-attachments/assets/5fd951c7-910a-424b-aa4b-d6bee29d7766" />
+
 
 ## Grayscale Image
-<img width="593" height="362" alt="image" src="https://github.com/user-attachments/assets/32491383-3787-47b9-8946-58a1b3b540f1" />
+<img width="622" height="380" alt="image" src="https://github.com/user-attachments/assets/28c064ec-e85c-4185-9892-7cd74131452b" />
+
 
 ## HSV to RGB Image
-<img width="598" height="397" alt="image" src="https://github.com/user-attachments/assets/00a335ab-5e57-45b9-9fb2-34132377fa3c" />
+<img width="627" height="377" alt="image" src="https://github.com/user-attachments/assets/7b4623af-3f12-4a24-883a-64f1521d9c70" />
+
 
 ## Image with 300x300 White Block
-<img width="572" height="352" alt="image" src="https://github.com/user-attachments/assets/69f0f494-c944-4a7d-82b9-71865ad7c35b" />
+<img width="617" height="385" alt="image" src="https://github.com/user-attachments/assets/d91a36d1-27fc-4fd8-90fd-070f60d3a61e" />
+
 
 ## Resized Image (Half Size)
-<img width="630" height="462" alt="image" src="https://github.com/user-attachments/assets/8ccbad8c-264f-4cdb-a4ad-788b2d3dfd32" />
+<img width="595" height="496" alt="image" src="https://github.com/user-attachments/assets/008b9123-3a03-4ebd-a4ed-e9bbc186e2a9" />
+
+
 
 ## Cropped Region of Interest (ROI)
-<img width="443" height="461" alt="image" src="https://github.com/user-attachments/assets/ec626a0b-9d89-487f-8833-aabf1394f45d" />
+<img width="465" height="496" alt="image" src="https://github.com/user-attachments/assets/26a481cb-8831-401e-aec1-56a390a69097" />
+
 
 ## Flipped Horizontally
-<img width="576" height="357" alt="image" src="https://github.com/user-attachments/assets/50fbc331-5e80-4d8b-a42f-8f25e2d6b78e" />
+<img width="636" height="385" alt="image" src="https://github.com/user-attachments/assets/62adc097-e1a8-4c52-a66c-f54eb31ae881" />
+
 
 ## Flipped Vertically
-<img width="582" height="345" alt="image" src="https://github.com/user-attachments/assets/28f13c57-27d4-47fc-83a9-76e867bd6a95" />
+<img width="617" height="382" alt="image" src="https://github.com/user-attachments/assets/595f8002-d2e0-470c-a743-c9275ade3cfd" />
+
 
 
 ## Result:
